@@ -1,0 +1,8 @@
+﻿<XtraSerializer version="1.0" application="Appearances">
+  <property name="Appearance" iskey="true" value="Appearance">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseFont">true</property>
+    </property>
+    <property name="Font">Tahoma, 11pt</property>
+  </property>
+</XtraSerializer>

@@ -1,0 +1,10 @@
+﻿<XtraSerializer version="1.0" application="Appearances">
+  <property name="AppearanceCaption" iskey="true" value="AppearanceCaption">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseFont">true</property>
+    </property>
+    <property name="ForeColor">Blue</property>
+    <property name="Font">Tahoma, 12pt, style=Bold, Underline</property>
+  </property>
+</XtraSerializer>

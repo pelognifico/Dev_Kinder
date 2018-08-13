@@ -1,0 +1,19 @@
+﻿<XtraSerializer version="1.0" application="Appearances">
+  <property name="AppearancePressed" iskey="true" value="AppearancePressed">
+    <property name="BackColor">ActiveBorder</property>
+  </property>
+  <property name="Appearance" iskey="true" value="Appearance">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseTextOptions">true</property>
+    </property>
+    <property name="TextOptions" isnull="true" iskey="true">
+      <property name="VAlignment">Bottom</property>
+    </property>
+  </property>
+  <property name="AppearanceHovered" iskey="true" value="AppearanceHovered">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">ControlDarkDark</property>
+  </property>
+</XtraSerializer>
